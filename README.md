@@ -1,5 +1,4 @@
 # Spectre
-Audio Visualizer
 Kami ingin membuat suatu aplikasi yang dapat memvisualisasikan musik. 
 Visualisasi musik menghasilkan gambar animasi berdasarkan karya musik. 
 Gambar biasanya dirender secara real time dan dengan cara yang disinkronkan dengan musik saat dimainkan.
